@@ -1,7 +1,7 @@
 # MSM
 MSM System Reconstruction
 
-This project is focused on the reconstruction of data acquired in the 3D Multi-Stage Microscope (MSM) system. The code comprises three main steps: mask calibration, data alignment, and the core reconstruction process. These steps are essential for generating accurate 3D images from the data.
+This project is focused on the reconstruction of data acquired in the 3D Multi focal scanning microscope (MSM) system. The code comprises three main steps: mask calibration, data alignment, and the core reconstruction process. These steps are essential for generating accurate 3D images from the data.
 
 ## Steps:
 
